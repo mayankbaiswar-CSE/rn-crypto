@@ -1,0 +1,23 @@
+{
+  "name": "rn-crypto",
+  "version": "1.0.0",
+  "description": "Standalone nodejs crypto package, usable in react-native.",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayankbaiswar-CSE/rn-crypto.git"
+  },
+  "keywords": [
+    "react-native",
+    "crypto"
+  ],
+  "author": "Mayank Baiswar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mayankbaiswar-CSE/rn-crypto/issues"
+  },
+  "homepage": "https://github.com/mayankbaiswar-CSE/rn-crypto#readme"
+}
